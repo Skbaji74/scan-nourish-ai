@@ -1,0 +1,7 @@
+project_id = "vpzoiwizjtfsdekerark"
+
+[functions.analyze-food]
+verify_jwt = false
+
+[functions.food-chat]
+verify_jwt = false
